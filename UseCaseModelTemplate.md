@@ -64,7 +64,7 @@
 8.3 If “back to main menu” clicked, player main menu will be displayed.
 
 **UC5 - Player views player rating list**
-**R6:** The player shall be able to view player rating list.
+**R5:** The player shall be able to view player rating list.
 **Pre-condition:** Players are in player main menu. 
 **Post-condition:** none
 **Scenario:** 
